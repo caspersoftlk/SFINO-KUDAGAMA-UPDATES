@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.3",
-  "latestVersionCode": "3",
+  "latestVersion": "1.4",
+  "latestVersionCode": "4",
   "url": "https://github.com/caspersoftlk/SFINO-KUDAGAMA-UPDATES/blob/master/app-release.apk?raw=true",
   "releaseNotes": [
-    "- ReleaseNotes",
-    "- Bug fixes"
+    "- Change RefNumber Format (V9xxxxx to VDxxxxx)",
+    "- Includes Decimal Points (Printing Bug)"
   ]
 }

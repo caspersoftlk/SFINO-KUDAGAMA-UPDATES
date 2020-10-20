@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.5",
-  "latestVersionCode": "5",
+  "latestVersion": "1.6",
+  "latestVersionCode": "6",
   "url": "https://github.com/caspersoftlk/SFINO-KUDAGAMA-UPDATES/blob/master/app-release.apk?raw=true",
   "releaseNotes": [
-    "- Change RefNumber Format (VDxxxxx to Dxxxxx)"
+    "- Change RefNumber Format (Dxxxxx to D9xxxxx)"
   ]
 }

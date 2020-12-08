@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.7",
-  "latestVersionCode": "7",
+  "latestVersion": "1.8",
+  "latestVersionCode": "8",
   "url": "https://github.com/caspersoftlk/SFINO-KUDAGAMA-UPDATES/blob/master/app-release.apk?raw=true",
   "releaseNotes": [
-    "- Bug Fixed (Customer Search)",
-    "- Receipt Invoice Date"
+    "- Bug Fixed (Printing)"
   ]
 }

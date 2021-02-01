@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.0",
-  "latestVersionCode": "10",
+  "latestVersion": "2.1",
+  "latestVersionCode": "11",
   "url": "https://github.com/caspersoftlk/SFINO-KUDAGAMA-UPDATES/blob/master/app-release.apk?raw=true",
   "releaseNotes": [
-    "- Bug Fixed (Printing)"
+    "- add new features (daily summery)"
   ]
 }

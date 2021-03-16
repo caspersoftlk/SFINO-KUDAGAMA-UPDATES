@@ -1,8 +1,9 @@
 {
-  "latestVersion": "2.4",
-  "latestVersionCode": "14",
+  "latestVersion": "2.5",
+  "latestVersionCode": "15",
   "url": "https://github.com/caspersoftlk/SFINO-KUDAGAMA-UPDATES/blob/master/app-release.apk?raw=true",
   "releaseNotes": [
-    "- add new features (daily summery)"
+    "- Bug Fix Receipt duplication",
+    "- Invoice print format changed"
   ]
 }

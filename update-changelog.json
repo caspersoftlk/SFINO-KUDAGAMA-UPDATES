@@ -1,9 +1,8 @@
 {
-  "latestVersion": "2.6",
-  "latestVersionCode": "26",
+  "latestVersion": "2.7",
+  "latestVersionCode": "27",
   "url": "https://github.com/caspersoftlk/SFINO-KUDAGAMA-UPDATES/blob/master/app-release.apk?raw=true",
   "releaseNotes": [
-    "- Bug Fix Receipt duplication",
-    "- Invoice print format changed"
+    "- Janaka's new changes"
   ]
 }
